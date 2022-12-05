@@ -1,0 +1,26 @@
+{ 
+    "base_scenario": {
+      "atm_dep_data_set": 38,
+      "back_out_scenario": 6611,
+      "base_condition": 256,
+      "base_load": 6,
+      "cost_profile": 8,
+      "climate_change_data_set": 59,
+      "historical_crop_need_scenario": 6608,
+      "point_source_data_set": 36,
+      "scenario_type": 2,
+      "soil_p_data_set": 31,
+      "source_data_revision": 8
+    },
+    "popsize": 20,
+    "ngen": 100,
+    "cc_start_gen": 96,
+    "eps_reduction": 0.2,
+    "eps_iters": 20,
+    "nexec": 11,
+    "geographies":{
+        "Tucker": {"geo_ids":[416]}
+    }
+    
+}
+
